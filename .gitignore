@@ -128,3 +128,4 @@ dist
 .svelte-kit
 
 *.mp4
+.DS_Store
